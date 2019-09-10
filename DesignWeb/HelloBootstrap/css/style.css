@@ -1,0 +1,19 @@
+.rouge {
+     background-color: blue;
+     /*on fait jamais sa*/
+     height: 300px;
+     /*mettre une hauteur fixe en bs*/
+ }
+.bleu {
+    height: 300px;
+    background-color: red;
+}
+
+.vert {
+    height: 300px;
+    background-color: greenyellow;
+}
+.jaune{
+    height: 300px;
+    background-color: yellow;
+}
