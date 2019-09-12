@@ -29,15 +29,15 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\XPS\PhpstormProjects\HelloBootstrap\css" />
-      <recent name="C:\Users\XPS\PhpstormProjects\HelloBootstrap\img" />
-      <recent name="C:\Users\XPS\PhpstormProjects\HelloBootstrap\js" />
-      <recent name="C:\Users\XPS\PhpstormProjects\HelloBootstrap" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\XPS\PhpstormProjects\HelloBootstrap\logo" />
       <recent name="C:\Users\XPS\PhpstormProjects\HelloBootstrap\css" />
+      <recent name="C:\Users\XPS\PhpstormProjects\HelloBootstrap" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\XPS\PhpstormProjects\HelloBootstrap\img" />
+      <recent name="C:\Users\XPS\PhpstormProjects\HelloBootstrap\css" />
+      <recent name="C:\Users\XPS\PhpstormProjects\HelloBootstrap\js" />
       <recent name="C:\Users\XPS\PhpstormProjects\HelloBootstrap" />
     </key>
   </component>
@@ -71,7 +71,15 @@
       <workItem from="1568056344168" duration="2178000" />
       <workItem from="1568058739818" duration="4300000" />
       <workItem from="1568063471299" duration="1623000" />
-      <workItem from="1568065576878" duration="10395000" />
+      <workItem from="1568065576878" duration="10996000" />
+      <workItem from="1568131164709" duration="2539000" />
+      <workItem from="1568135395285" duration="245000" />
+      <workItem from="1568158363941" duration="9222000" />
+      <workItem from="1568219089464" duration="790000" />
+      <workItem from="1568232731780" duration="1922000" />
+      <workItem from="1568234686488" duration="6000" />
+      <workItem from="1568297298860" duration="187000" />
+      <workItem from="1568297761248" duration="990000" />
     </task>
     <servers />
   </component>

@@ -6,9 +6,7 @@ html {
     background-size: cover;
     background-repeat: no-repeat;
 }
-.hauteur {
-    height: 800px;
-}
+
 h1 {
     font-size: 5rem;
 }
@@ -16,7 +14,7 @@ p1 {
     font-size: 2.5rem;
 }
 
-button
+.button1
 {
 
     font-size: 2em;
@@ -25,7 +23,7 @@ button
     border: none;
     background-color: #FF5733;
     color: white;
-    border-radius: 20px;
+    border-radius: 25px;
     cursor: pointer;
     outline: none;
     transition: 0.2s;
@@ -35,10 +33,7 @@ button:hover
 {
     box-shadow: 6px 6px 20px 4px rgba(0, 0, 0, 0.3);
 }
-.text-red
-{
-    color: red;
-}.bloc
+.bloc
  {
     margin-top:50px
  }
@@ -61,14 +56,47 @@ button:hover
  .bg2
  {
      background-color: #FF5733;
-     padding-top: 10rem;
-     padding-bottom: 10rem;
+     padding-top: 9rem;
+     padding-bottom: 8rem;
  }
  .textecolorred
  {
      color: #FF5733;
  }
-.button2
+.button2 {
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    border: none;
+    background-color: white;
+    color: black;
+    border-radius: 25px;
+    cursor: pointer;
+    outline: none;
+    transition: 0.2s;
+}
+.paddingimgtop
 {
-    color: #FF5733;
+    margin-top: 10rem;
+    
+}
+.marginimgbot
+{
+    margin-bottom: 25rem;
+}
+.paddingtxt {
+    margin-top: 2rem;
+}
+i{
+    font-size: 55px;
+}
+.textbig
+{
+    font-size: 3rem;
+}
+.imghauteur {
+    height: 400px;
+}
+.paddingp{
+    padding-top: 20rem;
 }
