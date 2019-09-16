@@ -5,6 +5,7 @@ html {
     background-image: url("../img/BelleImage.jpg");(alt"image de voiture");
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
 }
 
 h1 {
