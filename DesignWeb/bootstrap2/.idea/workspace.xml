@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02f299b1-933f-4c3d-a3ad-4d5cef184d16" name="Default Changelist" comment="" />
+    <list default="true" id="c1db0544-d8ed-4714-931f-b2e3647841d7" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,14 +14,24 @@
     </execution>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1Qk5oSCAiVYR72JSVhcSleP8lwW" />
+  <component name="ProjectId" id="1QxvN0SwdSidcwgZRayx5h95cxJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\bootstrap2\img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\bootstrap2\img" />
+      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\bootstrap2\js" />
+      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\bootstrap2" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -40,16 +50,19 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="02f299b1-933f-4c3d-a3ad-4d5cef184d16" name="Default Changelist" comment="" />
-      <created>1568301927679</created>
+      <changelist id="c1db0544-d8ed-4714-931f-b2e3647841d7" name="Default Changelist" comment="" />
+      <created>1568725017459</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1568301927679</updated>
-      <workItem from="1568301928870" duration="2009000" />
-      <workItem from="1568306140213" duration="1069000" />
-      <workItem from="1568384202702" duration="9000" />
-      <workItem from="1568676387075" duration="8000" />
-      <workItem from="1568724593905" duration="8000" />
+      <updated>1568725017459</updated>
+      <workItem from="1568725018641" duration="4080000" />
+      <workItem from="1568739939106" duration="242000" />
+      <workItem from="1568755359763" duration="7870000" />
+      <workItem from="1568820004026" duration="1066000" />
+      <workItem from="1568823815140" duration="1223000" />
+      <workItem from="1568833342705" duration="1754000" />
+      <workItem from="1568854279271" duration="29000" />
+      <workItem from="1568902162533" duration="711000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,144 @@
+html.body {
+    font-size: 10px;
+    height: 100%;
+}
+
+/*background pour écrire dessus*/
+.bg
+{
+    background-image: url("");(alt"");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+i
+{
+    font-size: 5.5rem;
+}
+
+/*grosseur texte h1*/
+h1
+{
+    font-size: 5rem;
+}
+
+/*grosseur texte p1*/
+p1
+{
+    font-size: 2.5rem;
+}
+
+/*boutton arrondi*/
+button
+{
+    font-size: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 10px;
+    padding-left: 10px;
+    border: none;
+    background-color: white;
+    border-radius: 10px;
+    cursor: pointer;
+    outline: none;
+    transition: 0.2s;
+}
+
+/*shadow lorsqu'on est sur le boutton*/
+button:hover
+{
+    box-shadow: 6px 6px 20px 4px rgba(0, 0, 0, 0.3);
+}
+
+/*ligne petit pour section*/
+
+.hr1
+{
+     margin-bottom:30px;
+     margin-top:30px;
+     max-width: 50px;
+     border-width: 3px;
+}
+/*background de couleur*/
+
+.bg2
+{
+     background-color: #3b5998;
+ }
+.bg3 {
+    background-color: darkgray;
+}
+.carre{
+    height: 100px;
+    width: 100px;
+}
+.rond{
+    border-radius: 50%;
+}
+
+ /*couleur rouge*/
+.rouge
+{
+     color: #FF5733;
+ }
+
+ /*marge 10rem top*/
+.margintop-10
+{
+    margin-top: 10rem;
+}
+
+/*marge par dessus 5 rem*/
+.margintop-5
+{
+    margin-top:5rem;
+}
+
+/*marge 2rem top*/
+.margintop-2
+{
+    margin-top: 2rem;
+}
+
+/*marge 10rem bot*/
+.marginbot-25
+{
+    margin-bottom: 25rem;
+}
+
+/*grosseur 3rem*/
+.fontsize-3
+{
+    font-size: 3rem;
+}
+
+/*grosseur image 400px*/
+.imghauteur
+{
+    height: 400px;
+}
+.paddingleft
+{
+    padding-left: 30px;
+}
+.black
+{
+    color: black;
+}
+.cent {
+    height: 100%;
+    width: 100%;
+}
+.profil
+{
+    height: 80%;
+    width: 70%;
+}
+.grey
+{
+    background-color: grey;
+}
+.blue
+{
+    background-color: #3b5998;
+}
