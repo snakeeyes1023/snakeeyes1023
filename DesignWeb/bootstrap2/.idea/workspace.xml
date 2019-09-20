@@ -21,16 +21,17 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\bootstrap2\js" />
+      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\bootstrap2\css" />
+      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\bootstrap2\img" />
+      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\bootstrap2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\bootstrap2\img" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\bootstrap2\img" />
-      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\bootstrap2\js" />
-      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\bootstrap2" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -63,6 +64,9 @@
       <workItem from="1568833342705" duration="1754000" />
       <workItem from="1568854279271" duration="29000" />
       <workItem from="1568902162533" duration="711000" />
+      <workItem from="1568903086261" duration="848000" />
+      <workItem from="1568914855005" duration="3000" />
+      <workItem from="1569001047903" duration="1402000" />
     </task>
     <servers />
   </component>

@@ -23,6 +23,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\HelloBootstrap\img" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -50,6 +55,8 @@
       <workItem from="1568384202702" duration="9000" />
       <workItem from="1568676387075" duration="8000" />
       <workItem from="1568724593905" duration="8000" />
+      <workItem from="1568914873100" duration="508000" />
+      <workItem from="1568943101881" duration="10000" />
     </task>
     <servers />
   </component>
