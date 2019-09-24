@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1db0544-d8ed-4714-931f-b2e3647841d7" name="Default Changelist" comment="" />
+    <list default="true" id="a74e26b9-dfb4-40fd-a997-8fd1fcbcc615" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,25 +13,34 @@
       <executable />
     </execution>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1QxvN0SwdSidcwgZRayx5h95cxJ" />
+  <component name="ProjectId" id="1RFfBmkVWC1Pgx1fJRJ90harLoi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\bootstrap2\js" />
-      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\bootstrap2\css" />
-      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\bootstrap2\img" />
-      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\bootstrap2" />
+      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\SiteWeb03\js" />
+      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\SiteWeb03\css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\bootstrap2\img" />
+      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\SiteWeb03\image" />
+      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\SiteWeb03\js" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -51,26 +60,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c1db0544-d8ed-4714-931f-b2e3647841d7" name="Default Changelist" comment="" />
-      <created>1568725017459</created>
+      <changelist id="a74e26b9-dfb4-40fd-a997-8fd1fcbcc615" name="Default Changelist" comment="" />
+      <created>1569267631949</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1568725017459</updated>
-      <workItem from="1568725018641" duration="4080000" />
-      <workItem from="1568739939106" duration="242000" />
-      <workItem from="1568755359763" duration="7870000" />
-      <workItem from="1568820004026" duration="1066000" />
-      <workItem from="1568823815140" duration="1223000" />
-      <workItem from="1568833342705" duration="1754000" />
-      <workItem from="1568854279271" duration="29000" />
-      <workItem from="1568902162533" duration="711000" />
-      <workItem from="1568903086261" duration="848000" />
-      <workItem from="1568914855005" duration="3000" />
-      <workItem from="1569001047903" duration="1640000" />
-      <workItem from="1569023019534" duration="599000" />
-      <workItem from="1569105165231" duration="20000" />
-      <workItem from="1569267442621" duration="1000" />
-      <workItem from="1569267492717" duration="83000" />
+      <updated>1569267631949</updated>
+      <workItem from="1569267633191" duration="8826000" />
     </task>
     <servers />
   </component>
@@ -82,9 +77,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
