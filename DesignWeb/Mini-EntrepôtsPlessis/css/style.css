@@ -1,0 +1,259 @@
+body{
+    font-size: 10px;
+}
+.backtext{
+    color: white;
+    background-color: #383d41;
+}
+.padding{
+    padding-top: 400px;
+    padding-bottom: 400px;
+}
+
+.icon
+{
+    width: 200px;
+    height: 50px;
+    margin-right: 100px;
+    margin-left: 20px;
+}
+.bg{
+    background-image: url("../img/image entrepot.jpg");
+    background-position: center;
+    background-size: cover;
+}
+hr{
+    margin-bottom:30px;
+    margin-top:30px;
+    max-width: 50px;
+    border-width: 3px;
+    border-color: black;
+}
+.navicon1
+{
+    color: #403737;
+}
+
+.marge
+{
+    margin-top: 100px;
+}
+.margetop
+{
+    margin-top: 25px;
+}
+.margesection
+{
+    margin-top: 60px;
+}
+.bordure-verticale {
+    height: 400px;
+    padding-right: 60px;
+    border-right: 1px #eb8000;
+}
+.margetexte
+{
+    margin-top: 15px;
+}
+.iconpf
+{
+    font-size: 3rem;
+    color: #403737;
+}
+.margebot{
+    margin-bottom: 40px;
+}
+.textetitre{
+    color: #eb8000;
+    font-size: 2rem;
+    font-family: "Segoe UI",Arial,sans-serif;
+}
+/*.bg{*/
+
+/*}*/
+/* The sticky class is added to the navbar with JS when it reaches its scroll position */
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.blackicon
+{
+    color: #403737;
+    font-size: 50px;
+}
+
+/* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
+
+.margedroite
+{
+    margin-right: 60px;
+}
+.button:hover{
+    background-color: #eb8000;
+    transition: 0.3s;
+    border-radius: .25rem
+}
+.img-hauteur
+{
+
+}
+.hauteur
+{
+    max-height: 700px;
+    width: 1920px;
+}
+.police
+{
+    font-size: 17px;
+    letter-spacing: 1px;
+    font-family: "Segoe UI",Arial,sans-serif;
+}
+
+.navbar {
+    background-color: white;
+}
+.navbar .navbar-brand {
+    color: black;
+}
+.navbar .navbar-brand:hover,
+.navbar .navbar-brand:focus {
+    color: white;
+}
+.navbar .navbar-text {
+    color: black;
+}
+.navbar .navbar-text a {
+    color: white;
+}
+.navbar .navbar-text a:hover,
+.navbar .navbar-text a:focus {
+    color: white;
+}
+.navbar .navbar-nav .nav-link {
+    color: black;
+    border-radius: .25rem;
+    margin: 0 0.25em;
+}
+.navbar .navbar-nav .nav-link:not(.disabled):hover,
+.navbar .navbar-nav .nav-link:not(.disabled):focus {
+    color: white;
+}
+.navbar .navbar-nav .dropdown-menu {
+    background-color: white;
+    border-color: #eb8000;
+}
+.navbar .navbar-nav .dropdown-menu .dropdown-item {
+    color: black;
+}
+.navbar .navbar-nav .dropdown-menu .dropdown-item:hover,
+.navbar .navbar-nav .dropdown-menu .dropdown-item:focus,
+.navbar .navbar-nav .dropdown-menu .dropdown-item.active {
+    color: white;
+    background-color: white;
+    border-radius: 0.25rem;
+}
+.navbar .navbar-nav .dropdown-menu .dropdown-divider {
+    border-top-color: #eb8000;
+}
+.navbar .navbar-nav .nav-item.active .nav-link,
+.navbar .navbar-nav .nav-item.active .nav-link:hover,
+.navbar .navbar-nav .nav-item.active .nav-link:focus,
+.navbar .navbar-nav .nav-item.show .nav-link,
+.navbar .navbar-nav .nav-item.show .nav-link:hover,
+.navbar .navbar-nav .nav-item.show .nav-link:focus {
+    color: black;
+    background-color: #eb8000;
+}
+.navbar .navbar-toggle {
+    border-color: #eb8000;
+}
+.navbar .navbar-toggle:hover,
+.navbar .navbar-toggle:focus {
+    background-color: #eb8000;
+}
+.navbar .navbar-toggle .navbar-toggler-icon {
+    color: black;
+}
+.navbar .navbar-collapse,
+.navbar .navbar-form {
+    border-color: black;
+}
+.navbar .navbar-link {
+    color: black;
+}
+.navbar .navbar-link:hover {
+    color: white;
+}
+
+@media (max-width: 575px) {
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: black;
+    }
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: white;
+    }
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: white;
+        background-color: #eb8000;
+    }
+}
+
+@media (max-width: 767px) {
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: black;
+    }
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: white;
+    }
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: white;
+        background-color: #eb8000;
+    }
+}
+
+@media (max-width: 991px) {
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: black;
+    }
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: white;
+    }
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: white;
+        background-color: #eb8000;
+    }
+}
+
+@media (max-width: 1199px) {
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: black;
+    }
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: white;
+    }
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: white;
+        background-color: #eb8000;
+    }
+}
+
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item {
+    color: black;
+}
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+    color: white;
+}
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item.active {
+    color: white;
+    background-color: #eb8000;
+}
+.mini:hover
+{
+    color: black;
+}

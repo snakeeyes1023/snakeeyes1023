@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a74e26b9-dfb4-40fd-a997-8fd1fcbcc615" name="Default Changelist" comment="" />
+    <list default="true" id="6970d68f-6741-4f96-9d1e-a40b0c4c6dd1" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,31 +16,32 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1RFfBmkVWC1Pgx1fJRJ90harLoi" />
+  <component name="ProjectId" id="1RIO3dhEbb1CNeSFZhe3jKlcADh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/index.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\SiteWeb03\js" />
-      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\SiteWeb03\css" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\SiteWeb03\image" />
-      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\SiteWeb03\js" />
+      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\Mini-EntrepôtsPlessis\img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\Mini-EntrepôtsPlessis\img" />
+      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\Mini-EntrepôtsPlessis\css" />
+      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\Mini-EntrepôtsPlessis\js" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -60,18 +61,24 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a74e26b9-dfb4-40fd-a997-8fd1fcbcc615" name="Default Changelist" comment="" />
-      <created>1569267631949</created>
+      <changelist id="6970d68f-6741-4f96-9d1e-a40b0c4c6dd1" name="Default Changelist" comment="" />
+      <created>1569350945905</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1569267631949</updated>
-      <workItem from="1569267633191" duration="8826000" />
-      <workItem from="1569348635453" duration="8000" />
-      <workItem from="1569359183581" duration="42000" />
-      <workItem from="1569366517705" duration="160000" />
-      <workItem from="1569508645962" duration="653000" />
-      <workItem from="1569509376351" duration="4000" />
-      <workItem from="1569933621520" duration="21000" />
+      <updated>1569350945905</updated>
+      <workItem from="1569350947108" duration="4890000" />
+      <workItem from="1569361580206" duration="4922000" />
+      <workItem from="1569366714943" duration="8465000" />
+      <workItem from="1569432753419" duration="4404000" />
+      <workItem from="1569438495005" duration="533000" />
+      <workItem from="1569440434063" duration="65000" />
+      <workItem from="1569445723003" duration="243000" />
+      <workItem from="1569448920381" duration="4328000" />
+      <workItem from="1569506119196" duration="593000" />
+      <workItem from="1569523758642" duration="435000" />
+      <workItem from="1569524236130" duration="253000" />
+      <workItem from="1569532520382" duration="166000" />
+      <workItem from="1569532702203" duration="957000" />
     </task>
     <servers />
   </component>

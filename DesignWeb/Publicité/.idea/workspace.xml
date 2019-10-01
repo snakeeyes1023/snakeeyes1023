@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02f299b1-933f-4c3d-a3ad-4d5cef184d16" name="Default Changelist" comment="" />
+    <list default="true" id="7a0e4d35-789b-4512-a147-c19933b703bf" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,19 +13,35 @@
       <executable />
     </execution>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
-  <component name="ProjectId" id="1Qk5oSCAiVYR72JSVhcSleP8lwW" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1RNW4Pwfq7V3Vl5yTUqNPfnmgps" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\HelloBootstrap\img" />
+      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\Publicité\img" />
+      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\Publicité" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\Publicité\js" />
+      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\Publicité" />
+      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\Publicité\css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -45,22 +61,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="02f299b1-933f-4c3d-a3ad-4d5cef184d16" name="Default Changelist" comment="" />
-      <created>1568301927679</created>
+      <changelist id="7a0e4d35-789b-4512-a147-c19933b703bf" name="Default Changelist" comment="" />
+      <created>1569507841753</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1568301927679</updated>
-      <workItem from="1568301928870" duration="2009000" />
-      <workItem from="1568306140213" duration="1069000" />
-      <workItem from="1568384202702" duration="9000" />
-      <workItem from="1568676387075" duration="8000" />
-      <workItem from="1568724593905" duration="8000" />
-      <workItem from="1568914873100" duration="508000" />
-      <workItem from="1568943101881" duration="10000" />
-      <workItem from="1569524196980" duration="16000" />
-      <workItem from="1569524225851" duration="5000" />
-      <workItem from="1569869652829" duration="6000" />
-      <workItem from="1569875190523" duration="6000" />
+      <updated>1569507841753</updated>
+      <workItem from="1569507842975" duration="1465000" />
+      <workItem from="1569509384225" duration="1222000" />
     </task>
     <servers />
   </component>
