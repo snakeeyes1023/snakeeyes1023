@@ -1,0 +1,77 @@
+html,body
+{
+    height: 100%;
+    font-size: 10px;
+}
+
+
+
+.img-height
+{
+    max-height: 300px;
+}
+.titre
+{
+    font-family: normal, Luminari, fantasy;
+    color: white;
+    font-size: 5.5rem;
+    background-color:  #F48F01;
+}
+p1,.text
+{
+    font-size: 1.6rem;
+}
+.color-orange
+{
+    color: #F48F01;
+}
+.text-form
+{
+    font-size: 2.5rem;
+}
+.titre2
+{
+    font-family: normal, Luminari, fantasy;
+    color: white;
+    font-size: 5.5rem;
+}
+.background-text
+{
+    background-color:  #F48F01;
+
+}
+.background-text1
+{
+    background-color: #686868;
+}
+.titre3
+{
+
+    font-family: normal, Luminari, fantasy;
+    color: white;
+    font-size: 4rem;
+}
+px-20
+{
+    padding-left: 10rem !important;
+    padding-right: 10rem !important;
+}
+.cover
+{
+    min-height: 200px;
+    min-width: 400px;
+}
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+
+}

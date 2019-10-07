@@ -1,13 +1,26 @@
-body{
+body, html{
     font-size: 10px;
+    height: 100%;
+    margin:0;
 }
-.backtext{
+.texte-du-titre{
     color: white;
-    background-color: #383d41;
+    background-color: #eb8000;
+    margin-right: 30%;
+    margin-left: 30%;
+    font-size: 4rem;
+    font-family: Impact, fantasy;
+    letter-spacing: 2px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 .padding{
     padding-top: 400px;
     padding-bottom: 400px;
+}
+.position
+{
+    position: center;
 }
 
 .icon
@@ -17,9 +30,17 @@ body{
     margin-right: 100px;
     margin-left: 20px;
 }
-.bg{
+.bg-parallax {
+    /* L’image du Parallax */
     background-image: url("../img/image entrepot.jpg");
+
+    /* L’hauteur du Parallax */
+    min-height: 700px;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
     background-position: center;
+    background-repeat: no-repeat;
     background-size: cover;
 }
 hr{
@@ -36,7 +57,11 @@ hr{
 
 .marge
 {
-    margin-top: 100px;
+    margin-top: 500px;
+}
+.margetext
+{
+    margin-top: 300px;
 }
 .margetop
 {
@@ -105,7 +130,7 @@ hr{
 }
 .police
 {
-    font-size: 17px;
+    font-size: 1.7rem;
     letter-spacing: 1px;
     font-family: "Segoe UI",Arial,sans-serif;
 }

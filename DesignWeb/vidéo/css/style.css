@@ -1,0 +1,202 @@
+html,body{
+    font-size: 10px;
+    height: 100%;
+
+}
+
+html,body { margin:0; height:100%;}
+
+.parallax {
+    /* L’image du Parallax */
+    background-image: url("../img/image2.jpg");
+
+    /* L’hauteur du Parallax */
+    height: 100%;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.hauteur{
+    height: 300px;
+}
+.police
+{
+    font-size: 2.5rem;
+    font-family: Impact, fantasy;
+    color: white;
+}
+.police2
+{
+    font-size: 4rem;
+    font-family: Impact, fantasy;
+    color: white;
+}
+.marge
+{
+    align-content:baseline;
+}
+.rectangle
+{
+    font-size: 4rem;
+    font-family: Impact, fantasy;
+    color: white;
+}
+.bg1textred
+{
+    background-color: rgba(255, 87, 51, 0.60) ;
+    padding-block: 25px;
+}
+
+.bgtextred
+{
+    padding-top: 35px;
+    padding-bottom: 35px;
+    padding-left: 40px;
+    background-color: rgba(255, 87, 51, 0.60);
+}
+.finsection
+{
+    margin-top: 100px;
+}
+.section
+{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.jaune {
+    color: #FF5733;
+    font-size: 4rem;
+}
+.iconred
+{
+    color: #FF5733;
+}
+.img
+{
+    height: 80%;
+    width: 100%;
+}
+.paddingtop
+{
+    margin-top: 30px;
+}
+.font-size{
+    font-size: 3rem;
+}
+.font {
+    font-size: 5rem;
+}
+.button{
+    color: white;
+    background-color: #FF5733;
+}
+.paddingbutton{
+    margin-bottom: 20px;
+}
+.parallax2 {
+    /* L’image du Parallax */
+    background-image: url("../img/info2.jpg");
+
+    /* L’hauteur du Parallax */
+    min-height: 300px;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.fontbig
+{
+    font-size: 6rem;
+}
+.backred
+{
+    font-family: Impact, fantasy;
+    background-color: #FF5733;
+    color: white;
+}
+.parallax3 {
+    /* L’image du Parallax */
+    background-image: url("../img/info20.jpg");
+
+    /* L’hauteur du Parallax */
+    min-height: 500px;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.red {
+    color: #FF5733;
+}
+.iconblack
+{
+    color: black;
+}
+.bgred{
+    background-color: #FF5733;
+}
+.bggrey
+{
+    background-color: darkgrey;
+}
+.bgblue{
+    background-color: #007bff;
+}
+.section2
+{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+@media only screen and (max-width: 480px){
+    body,html {
+        font-size: 6px;
+    }
+    .parallax
+    {
+        background-image: url("../img/bg1-2.jpg");
+    }
+}
+@media only screen and (max-width: 320px){
+    body,html {
+        font-size: 3px;
+    }
+    h2{
+        font-size: 10px;
+    }
+}
+header {
+    position: relative;
+    background-color: black;
+    height: 100%;
+    min-height: 25rem;
+    width: 100%;
+    overflow: hidden;
+}
+
+header video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: 0;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+}
+
+
+

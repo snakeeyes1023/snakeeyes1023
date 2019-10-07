@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="fr-ca">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Recherche de voyage</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/all.min.js"></script>
+</head>
+<body>
+<div class="container-fluid">
+    <div class="row align-items-center text-center">
+        <div class="col-xl-8 img-fluid">
+            <img class="img-height" src="img/trivago.png"/>
+        </div>
+        <div class="col-xl-3">
+            <h1 class="">Trivago</h1>
+            <p1 class="text">Trouvez l’hôtel idéal et comparez les prix de différents sites Web <br> <a href="https://www.trivago.ca/fr" target="_blank">lien vers Trivago</a></p1>
+        </div>
+    </div>
+</div>
+<div class="container-fluid">
+    <div class="row align-items-center text-center">
+        <div class="offset-1"></div>
+        <div class="col-xl-10 background-text">
+            <h1 class="titre2">Information personnelle</h1>
+        </div>
+    </div>
+</div>
+<div class="container-fluid">
+    <div class="row align-items-center text-center">
+        <div class="col">
+
+        </div>
+    </div>
+</div>
+<form class="mr-5 ml-5" action="envoyer.html">
+    <div class="form-row mt-5">
+        <div class="col">
+            <input type="text" class="form-control text-form" placeholder="Prénom">
+        </div>
+        <div class="col">
+            <input type="text" class="form-control text-form" placeholder="Nom">
+        </div>
+        <div class="col">
+            <div class="form-group">
+                <input type="text" class="form-control text-form" id="inputAddress" placeholder="Addresse">
+            </div>
+        </div>
+    </div>
+    <div class="form-row">
+        <div class="form-group col">
+            <input type="text" class="form-control text-form" id="inputCity" placeholder="Ville">
+        </div>
+        <div class="form-group col">
+            <input type="text" class="form-control text-form" id="inputZip" placeholder="Code postale">
+        </div>
+        <div class="form-group col">
+                <input class="form-control text-form" type="tel" value="1-(819)-000-0000" id="example-tel-input" placeholder="Téléphone">
+        </div>
+    </div>
+    <div class="align-items-center text-center">
+    <input class="btn btn-primary text-form" type="submit" value="envoyer">
+    </div>
+</form>
+<div class="container-fluid pt-5 pb-5">
+    <div class="row align-items-center text-center">
+        <div class="offset-1"></div>
+        <div class="col-xl-10 background-text">
+            <hi class="titre2">Destination</hi>
+        </div>
+    </div>
+</div>
+<div class="container-fluid">
+    <div class="row align-items-center text-center">
+        <div class="offset-1"></div>
+        <div class="col-xl-4 background-text1">
+            <h1 class="titre3">Lieux</h1>
+        </div>
+        <div class="offset-2"></div>
+        <div class="col-xl-4 background-text1">
+            <h1 class="titre3">Départ</h1>
+        </div>
+        <div class="offset-1"></div>
+    </div>
+</div>
+<form class="ml-5 mr-5" action="envoyer.html">
+
+    <div class="form-row mt-5 mb-5">
+        <div class="col">
+            <select class="form-control text-form" id="exampleFormControlSelect1">
+               <option>Mexique</option>
+               <option>France</option>
+               <option>Colombie</option>
+                <option>Cuba</option>
+                <option>Espagne</option>
+           </select>
+        </div>
+        <div class="form-group col">
+                <input class="form-control text-form" type="date" value="2011-08-19" id="example-date-input">
+        </div>
+    </div>
+<div class="container-fluid">
+    <div class="row align-items-center text-center">
+        <div class="offset-4"></div>
+        <div class="col-xl-4 background-text1">
+            <h1 class="titre3">Retour</h1>
+        </div>
+    </div>
+</div>
+
+    <div class="form-row mt-5 mb-5">
+        <div class="form-group col">
+            <input class="form-control text-form" type="date" value="2011-08-29" id="example-date-input1">
+        </div>
+    </div>
+
+<div class="container-fluid pt-5 pb-5">
+    <div class="row align-items-center text-center">
+        <div class="offset-1"></div>
+        <div class="col-xl-10 background-text">
+            <hi class="titre2">Passagers</hi>
+        </div>
+    </div>
+</div>
+<div class="container-fluid">
+    <div class="row align-items-center text-center">
+        <div class="offset-1"></div>
+        <div class="col-xl-4 background-text1">
+            <h1 class="titre3">Adultes</h1>
+        </div>
+        <div class="offset-2"></div>
+        <div class="col-xl-4 background-text1">
+            <h1 class="titre3">Enfants</h1>
+        </div>
+        <div class="offset-1"></div>
+    </div>
+</div>
+
+    <div class="form-row mr-5 ml-5">
+        <div class="form-group col">
+            <select class="form-control text-form" id="adulteSelect">
+                <option>1</option>
+                <option>2</option>
+                <option>3</option>
+                <option>4</option>
+                <option>5</option>
+                <option>6</option>
+                <option>7</option>
+                <option>8</option>
+            </select>
+        </div>
+        <div class="form-group col">
+            <select class="form-control text-form" id="enfantSelect">
+                <option>1</option>
+                <option>2</option>
+                <option>3</option>
+                <option>4</option>
+                <option>5</option>
+                <option>6</option>
+                <option>7</option>
+                <option>8</option>
+            </select>
+        </div>
+    </div>
+    <div class="text-center align-items-center col-xl-12">
+    <div class="form-check form-check-inline mt-5 ">
+        <input class="form-check-input text-form" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1">
+        <label class="form-check-label text-form" for="inlineRadio1">Avion</label>
+    </div>
+    <div class="form-check form-check-inline ">
+        <input class="form-check-input text-form" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2">
+        <label class="form-check-label text-form" for="inlineRadio2"> Autobus</label>
+    </div>
+    </div>
+    <div class="text-center align-items-center col-xl-12">
+        <div class="form-check form-check-inline  mt-5 ">
+            <input class="form-check-input text-form" type="radio" name="inlineRadioOptions" id="inlineRadio3" value="option1">
+            <label class="form-check-label text-form" for="inlineRadio1">classe économique</label>
+        </div>
+        <div class="form-check form-check-inline  ">
+            <input class="form-check-input text-form" type="radio" name="inlineRadioOptions" id="inlineRadio4" value="option2">
+            <label class="form-check-label text-form" for="inlineRadio2">Première classe</label>
+        </div>
+    </div>
+    <div class="mt-5 mb-5 row">
+        <div class="offset-1"></div>
+        <div class="col-xl-10 background-text text-center">
+            <h1 class="titre2">Option</h1>
+        </div>
+    </div>
+    <div class="align-items-center text-center mt-5">
+    <div class="form-check form-check-inline">
+        <input class="form-check-input text-form" type="checkbox" id="inlineCheckbox1" value="option1">
+        <label class="form-check-label text-form" for="inlineCheckbox1">tout compris</label>
+    </div>
+    <div class="form-check form-check-inline">
+        <input class="form-check-input text-form" type="checkbox" id="inlineCheckbox2" value="option2">
+        <label class="form-check-label text-form" for="inlineCheckbox2">Sur la plage</label>
+    </div>
+    <div class="form-check form-check-inline">
+        <input class="form-check-input text-form" type="checkbox" id="inlineCheckbox3" value="option3">
+        <label class="form-check-label text-form" for="inlineCheckbox3">Près d'un golf</label>
+    </div>
+    </div>
+    <div class="align-items-center text-center">
+        <input class="btn btn-primary text-form" type="submit" value="envoyer">
+    </div>
+</form>
+<div class="container-fluid">
+
+    <div class="align-items-center col-xl-12 text-center mt-5 no-gutters  map-responsive">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60520.84189629682!2d-65.82589400548598!3d48.64195361750751!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4c99f0d712a2398d%3A0x75252761901b49dd!2zR2FzcMOpc2ll!5e0!3m2!1sfr!2sca!4v1570474960568!5m2!1sfr!2sca"  frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+    </div>
+</div>
+
+
+<script src="js/jquery.js"></script>
+<script src="js/bootstrap.js"></script>
+</body>
+</html>
