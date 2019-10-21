@@ -1,0 +1,500 @@
+html, body
+{
+    font-size: 10px;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    scroll-behavior: smooth;
+}
+.navmarge{
+    margin-top: 65px;
+}
+.navbar {
+    background-color: rgba(0,0,0,0.81);
+}
+.navbar .navbar-brand {
+    color: #ffffff;
+}
+.navbar .navbar-brand:hover,
+.navbar .navbar-brand:focus {
+    color: #ffffff;
+}
+.navbar .navbar-text {
+    color: #ffffff;
+}
+.navbar .navbar-text a {
+    color: #ffffff;
+}
+.navbar .navbar-text a:hover,
+.navbar .navbar-text a:focus {
+    color: #ffffff;
+}
+.navbar .navbar-nav .nav-link {
+    color: #ffffff;
+    border-radius: .25rem;
+    margin: 0 0.25em;
+}
+.navbar .navbar-nav .nav-link:not(.disabled):hover,
+.navbar .navbar-nav .nav-link:not(.disabled):focus {
+    color: #ffffff;
+}
+.navbar .navbar-nav .nav-item.active .nav-link,
+.navbar .navbar-nav .nav-item.active .nav-link:hover,
+.navbar .navbar-nav .nav-item.active .nav-link:focus,
+.navbar .navbar-nav .nav-item.show .nav-link,
+.navbar .navbar-nav .nav-item.show .nav-link:hover,
+.navbar .navbar-nav .nav-item.show .nav-link:focus {
+    color: #ffffff;
+    background-color: #EA2230;
+}
+.navbar .navbar-toggle {
+    border-color: #EA2230;
+}
+.navbar .navbar-toggle:hover,
+.navbar .navbar-toggle:focus {
+    background-color: #EA2230;
+}
+.navbar .navbar-toggle .navbar-toggler-icon {
+    color: #ffffff;
+}
+.navbar .navbar-collapse,
+.navbar .navbar-form {
+    border-color: #ffffff;
+}
+.navbar .navbar-link {
+    color: #ffffff;
+}
+.navbar .navbar-link:hover {
+    color: #ffffff;
+}
+
+@media (max-width: 575px) {
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: #ffffff;
+    }
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #ffffff;
+    }
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #ffffff;
+        background-color: #EA2230;
+    }
+}
+
+@media (max-width: 767px) {
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: #ffffff;
+    }
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #ffffff;
+    }
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #ffffff;
+        background-color: #EA2230;
+    }
+}
+
+@media (max-width: 991px) {
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: #ffffff;
+    }
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #ffffff;
+    }
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #ffffff;
+        background-color: #EA2230;
+    }
+}
+
+@media (max-width: 1199px) {
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: #ffffff;
+    }
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #ffffff;
+    }
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #ffffff;
+        background-color: #EA2230;
+    }
+}
+
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item {
+    color: #ffffff;
+}
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+    color: #ffffff;
+}
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item.active {
+    color: #ffffff;
+    background-color: #EA2230;
+}
+.navbar-text
+{
+    font-size: 1.5rem;
+    font-family: Impact, fantasy;
+    letter-spacing: 2px;
+}
+
+.logo
+{
+    max-height:  50px;
+    max-width: 250px;
+}
+.effect:hover
+{
+    background-color: #EA2230;
+    border-radius: .25rem;
+    transition: 0.8s;
+}
+.icon-nav
+{
+    font-size: 2rem;
+    color: white;
+}
+p
+{
+    font-size: 1.9rem;
+    font-family: Helvetica,sans-serif;
+
+
+}
+h1
+{
+    font-size: 3.2rem;
+    font-family: Impact, fantasy;
+
+}
+.imagegrosseur
+{
+    max-height: 500px;
+    max-width: 700px;
+}
+
+.parallax {
+    /* L’image du Parallax */
+    background-image: url("../img/velo-6 (2).jpg");
+
+    /* L’hauteur du Parallax */
+    height: 100%;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+hr{
+    margin-bottom:30px;
+    margin-top:30px;
+    max-width: 50px;
+    border-width: 3px;
+    border-color: #EA2230;
+}
+.font-awesome
+{
+    font-size: 4.5rem;
+}
+.logo
+{
+    color: #EA2230;
+}
+.marge-section
+{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.marge-text
+{
+    margin-bottom: 70px;
+}
+.effect-color
+{
+    background-color: #EA2230;
+}
+.img-trek
+{
+    background-size: cover;
+    background-position: center;
+}
+
+.bg {
+    /* The image used */
+    background-image: url("../img/trek.jpg");
+
+    /* Full height */
+    height: 100%;
+    max-height: 700px;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text-titre
+{
+    background-color: rgba(255, 255, 255, 0.5);
+    color: black;
+    font-family: Impact, fantasy;
+    margin-left: 20%;
+    margin-right: 20%;
+
+
+}
+.text-titre0
+{
+    background-color: rgba(255, 255, 255, 0.8);
+    color: black;
+    font-family: Impact, fantasy;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 4rem;
+
+
+}
+.btn-trans {
+    background:none;
+    box-shadow:none;
+    color: white;
+}
+.btn-trans-default {
+    border: 2px solid #999999;
+    color:#999999;
+    font-size: 2rem;
+}
+.btn-trans:hover {
+    background-color: rgba(255, 255, 255, 0.8);
+    color: black;
+    transition: 0.6s;
+    font-family: inherit;
+}
+.btn-text{
+    font-family: inherit;
+    background-color: rgba(255, 255, 255, 0.6);
+    font-size: 2rem;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.mt-40
+{
+    margin-top: 60px;
+}
+.titre-velo
+{
+    font-family: inherit;
+}
+.bg-card
+{
+    background-color: grey;
+    color: white;
+}
+.bg-image{
+    background-image: url("../img/bg-image.jpg");
+    height: 100%;
+    max-height: 700px;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-texte-spec
+{
+    background-color: black;
+    color: white;
+}
+.size
+{
+    background-size: cover;
+}
+.video{
+    width: 100%;
+    height: 100%;
+}
+.parallax03 {
+    /* L’image du Parallax */
+    background-image: url("../img/bg03.jpg");
+
+    /* L’hauteur du Parallax */
+    height: 100%;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bgtransparent
+{
+    background-color: rgba(255, 255, 255, 0.6);
+}
+.btn-black
+{
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+}
+.btn-black:hover
+{
+    background-color: rgba(255, 255, 255, 0.6) ;
+    color: white;
+    transition: 0.5s;
+}
+.ft
+{
+    font-size: 2.4rem;
+}
+.fts
+{
+    font-size: 1.8rem;
+}
+.btn-black01
+{
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+}
+.btn-black01:hover
+{
+    background-color: #EA2230 ;
+    color: black;
+    transition: 0.5s;
+}
+
+#carte-plein-ecran
+{
+    width: 100%;
+    height: 600px;
+}
+.btn-gris
+{
+    background-color: grey;
+    color: white;
+
+}
+.btn-gris:hover
+{
+    background-color: #686868;
+    color: white;
+}
+.bg-final {
+    /* L’image du Parallax */
+    background-image: url("../img/img-final.jpg");
+
+    /* L’hauteur du Parallax */
+    height: 100%;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+@media screen and (max-width: 760px) {
+    html,body {
+        font-size: 7px;
+    }
+    .navmarge
+    {
+        margin-top: 56px;
+
+    }
+    .imagegrosseur
+    {
+        max-height: 600px;
+        max-width: 760px;
+    }
+}
+@media screen and (max-width: 1024px) {
+    html,body {
+        font-size: 7px;
+    }
+    .imagegrosseur
+    {
+        max-height: 700px;
+        max-width: 800px;
+    }
+    .navmarge
+    {
+        margin-top: 56px;
+
+    }
+}
+@media screen and (max-width: 1500px) {
+    html,body {
+        font-size: 7px;
+    }
+
+    .navmarge
+    {
+        margin-top: 56px;
+
+    }
+}
+
+@media screen and (max-width: 1400px) {
+
+    .imagegrosseur
+    {
+        max-height: 1200px;
+        max-width: 800px;
+    }
+}
+@media screen and (max-width: 800px) {
+
+    .imagegrosseur
+    {
+        max-height: 700px;
+        max-width: 400px;
+    }
+}
+
+
+@media screen and (max-width: 420px) {
+    html,body {
+        font-size: 6px;
+    }
+    .imagegrosseur
+    {
+        max-height: 400px;
+        max-width: 360px;
+    }
+}
+.bg100
+{
+    background-image: url("../img/velo7-c.jpg");
+
+    /* Full height */
+    height: 100%;
+    max-height: 700px;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@media screen and (max-width: 1400px) {
+    .bg100
+    {
+        background-image: url("../img/velo1-c.jpg");
+    }
+}
+
+@media screen and (max-width: 420px) {
+    .bg100
+    {
+        background-image: url("../img/velo2-c.jpg");
+    }
+}
+
+
+
+
+

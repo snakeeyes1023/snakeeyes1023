@@ -32,11 +32,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\Formulaire\img" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\Formulaire" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\Formulaire\img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -64,6 +64,9 @@
       <workItem from="1570113764463" duration="9503000" />
       <workItem from="1570194066614" duration="6763000" />
       <workItem from="1570473417199" duration="3890000" />
+      <workItem from="1570477576769" duration="678000" />
+      <workItem from="1570537422544" duration="10000" />
+      <workItem from="1570537617821" duration="714000" />
     </task>
     <servers />
   </component>
