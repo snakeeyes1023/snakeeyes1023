@@ -1,0 +1,123 @@
+html,body{ font-size: 10px; color: white; text-align: center; align-items: center;margin: 0 auto;}
+
+.bg
+{
+    background-image: url("img/bgsite.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 1500px;
+    width: 100%;
+
+}
+.bg0
+{
+    background-image: url("img/background/blanc.jpg");
+    margin-right: 50px;
+    margin-left: 50px;
+    height: 25%;
+
+}
+.bgwood
+{
+    background-image: url("img/bgwood.jpg");
+    height: 100%;
+}
+.width
+{
+    max-width: 300px;
+}
+.title
+{
+    font-size: 5.2rem;
+    font-family: "Century Gothic", fantasy ;
+
+}
+.smalltitle
+{
+    font-size: 3.2rem;
+    font-family: inherit, fantasy;
+}
+
+.mt-20
+{
+    margin-top: 60px;
+}
+
+.text-form
+{
+    font-size: 2.3rem;
+    height: 100%;
+
+}
+.button2
+{
+    font-size: 1.7rem;
+    font-family: inherit, fantasy;
+}
+.button
+{
+    font-size: 2.5rem;
+    font-family: inherit, fantasy;
+}
+p
+{
+    font-size: 1.5rem;
+    font-family: inherit, fantasy;
+}
+
+.red
+{
+    color: red;
+}
+
+.green
+{
+    color: green;
+}
+
+img
+{
+    max-height: 300px;
+    width: 100%;
+
+
+}
+.mt-40
+{
+    margin-top: 200px;
+}
+.mr-10
+{
+    margin-right: 90px;
+}
+.mt-30
+{
+    margin-top: 150px;
+}
+.form-size
+{
+    font-size: 2rem;
+    height: 100%;
+
+}
+.text-modal
+{
+    font-size: 2rem;
+    font-family: inherit, fantasy;
+}
+.img-fluid:hover
+{
+    filter: brightness(80%);
+    transition-duration: 0.5s;
+}
+.mb-40
+{
+    margin-bottom: 200px;
+}
+.title-black
+{
+    font-size: 7rem;
+    font-family: "Century Gothic", fantasy ;
+    color: black;
+
+}

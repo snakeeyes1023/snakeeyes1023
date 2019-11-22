@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="fr-CA">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Photo Citi</title>
+    <link rel="stylesheet" type="text/css" href="Bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/png" href="img/images.jpg"/>
+    <script src="JS/all.min.js"></script>
+    <script src="JS/jquery-3.3.1.min.js" defer></script>
+    <script src="Bootstrap/js/bootstrap.js" defer></script>
+    <script src="JS/imgtext.js" defer></script>
+</head>
+<body>
+<section >
+    <div  class="container-fluid bg ">
+        <div class="row align-items-center text-center d-print-none">
+            <div class="col-xl-12 mt-20">
+                <h1 class="title"><i class="fas fa-camera-retro"></i> TRANSFORMER VOTRE MOT EN IMAGE</h1>
+            </div>
+            <div class="col-xl-12 mt-20">
+                <h2 class="smalltitle mt-5"><i class="fas fa-keyboard"></i> ENTRER VOTRE MOT</h2>
+            </div>
+        </div>
+        <div class="container-fluid mt-20 d-print-none">
+            <div class="row px-0">
+                <div class="offset-2"></div>
+                <div class="col-8 align-items-center ">
+                    <div class="form-group">
+                        <input type="text" class="form-control text-form text-center" id="text" placeholder="javascript">
+                    </div>
+
+                </div>
+                <div class="col-1">
+                    <a id="go" class="btn-dark btn button mr-10"><i class="far fa-1x fa-arrow-alt-circle-down"></i></a>
+                </div>
+            </div>
+            <div class="row mt-2">
+                <div class="offset-2"></div>
+                <div class="col-4">
+                    <p id="erreur"> * VOTRE MOT DOIT CONTENIR DE 3 À 12 CARACTÈRES<br></p>
+                    <p>UTILISER * POUR LES CARATÈRES SPÉCIAUX</p>
+                </div>
+            </div>
+        </div>
+        <div class="row mt-20 mb-5 d-print-none">
+            <div class="col-xl-12 align-items-center text-center">
+                <h2 class="smalltitle mt-5"><i class="fas fa-image"></i> CHOISISSER LE FOND QUE VOUS DÉSIREZ</h2>
+            </div>
+        </div>
+        <form id="selection d-print-none">
+            <div class="form-row align-items-center mt-5 d-print-none">
+                <div class="offset-xl-4"></div>
+                <div class="col-xl-4">
+                    <select name="background" class="custom-select mr-sm-2 form-size" id="inlineFormCustomSelect">
+                        <option selected value="0">blanc</option>
+                        <option value="1">bleu</option>
+                        <option value="2">bleu-foncé</option>
+                        <option value="3">gris</option>
+                        <option value="4">noir</option>
+                        <option value="5">rose</option>
+                        <option value="6">rouge</option>
+                    </select>
+                </div>
+            </div>
+        </form>
+        <section id="imprimer" class="mb-40 d-none d-print-block">
+            <div class="row align-items-center text-center">
+                <div class="col-xl-12">
+                    <h1 class="title-black">Voici le résultat de votre mot</h1>
+                </div>
+            </div>
+        </section>
+        <div class="row p-5 bg0 mt-30 align-items-center">
+            <div id="sec0" class="rev offset-2 px-0"></div>
+            <div id="sec1" class="rev col-1 px-0"><img class="img-fluid" src="img/Letters/J/J1.jpg"/></div>
+            <div id="sec2" class="rev col-1 px-0"><img class="img-fluid" src="img/Letters/A/A1.jpg"/></div>
+            <div id="sec3" class="rev col-1 px-0"><img class="img-fluid" src="img/Letters/V/V1.jpg"/></div>
+            <div id="sec4" class="rev col-1 px-0"><img class="img-fluid" src="img/Letters/A/A1.jpg"/></div>
+            <div id="sec5" class="rev col-1 px-0"><img class="img-fluid" src="img/Letters/S/S1.jpg"/></div>
+            <div id="sec6" class="rev col-1 px-0"><img class="img-fluid" src="img/Letters/C/C1.jpg"/></div>
+            <div id="sec7" class="rev col-1 px-0"><img class="img-fluid" src="img/Letters/R/R1.jpg"/></div>
+            <div id="sec8" class="rev col-1 px-0"><img class="img-fluid" src="img/Letters/I/I1.jpg"/></div>
+            <div id="sec9" class="rev col-1 px-0"><img class="img-fluid" src="img/Letters/P/P1.jpg"/></div>
+            <div id="sec10" class="rev col-1 px-0"><img class="img-fluid" src="img/Letters/T/T1.jpg"/></div>
+            <div id="sec11" class="rev px-0"></div>
+        </div>
+    </div>
+</section>
+
+
+
+<section class="navmarge d-print-none">
+    <div class="modal fade" id="carouselle" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+             aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content bgwood align-items-center text-center">
+                    <div class="modal-header">
+                        <p class="modal-title text-center text-modal" id="exampleModalLabel">choisissez l'image que vous désirez</p>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <div id="carouselExampleIndicators" class="carousel slide h-100" data-ride="carousel">
+                            <ol class="carousel-indicators">
+                                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                                <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                                <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                            </ol>
+                            <div class="carousel-inner">
+                                <div id="check1" class="carousel-item active">
+                                    <img id="car1" class="d-block w-100 width" src="" alt="vélo de montagne">
+                                </div>
+                                <div id="check2" class="carousel-item">
+                                    <img id="car2" class="d-block w-100  width" src="" alt="vélo de montagne">
+                                </div>
+                                <div id="check3" class="carousel-item">
+                                    <img id="car3" class="d-block w-100 width" src="" alt="image employer">
+                                </div>
+                                <div id="check4" class="carousel-item">
+                                    <img id="car4" class="d-block w-100 width" src="" alt="image employer">
+                                </div>
+                                <div id="check5" class="carousel-item">
+                                    <img id="car5" class="d-block w-100 width" src="" alt="image employer">
+                                </div>
+                            </div>
+                            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button"
+                               data-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span class="sr-only">Previous</span>
+                            </a>
+                            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button"
+                               data-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span class="sr-only">suivant</span>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" id="button" class="btn btn-primary button2" data-dismiss="modal">choisir cette image</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+</body>
+</html>

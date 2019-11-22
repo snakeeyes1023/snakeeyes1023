@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88db432b-acbe-4210-adbc-a4e6fe89cb9e" name="Default Changelist" comment="" />
+    <list default="true" id="9c799dcc-d047-4a47-b55b-e47cc38ca869" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,20 +23,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1RhKCviuAutTb6lVbyL7hqwSts1" />
+  <component name="ProjectId" id="1TnvoDXDZlzOlCJrvPWRsyt8TX6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/JS" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\Formulaire" />
+      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\ExamenDesign\JS" />
+      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\ExamenDesign\img" />
+      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\ExamenDesign\fontawesome" />
+      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\ExamenDesign" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\Formulaire\img" />
+      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\ExamenDesign\img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -56,22 +59,25 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="88db432b-acbe-4210-adbc-a4e6fe89cb9e" name="Default Changelist" comment="" />
-      <created>1570113763321</created>
+      <changelist id="9c799dcc-d047-4a47-b55b-e47cc38ca869" name="Default Changelist" comment="" />
+      <created>1574108846708</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1570113763321</updated>
-      <workItem from="1570113764463" duration="9503000" />
-      <workItem from="1570194066614" duration="6763000" />
-      <workItem from="1570473417199" duration="3890000" />
-      <workItem from="1570477576769" duration="678000" />
-      <workItem from="1570537422544" duration="10000" />
-      <workItem from="1570537617821" duration="714000" />
-      <workItem from="1574111866090" duration="67000" />
-      <workItem from="1574112475351" duration="77000" />
-      <workItem from="1574114047560" duration="1000" />
-      <workItem from="1574188041629" duration="4000" />
-      <workItem from="1574188068935" duration="6000" />
+      <updated>1574108846708</updated>
+      <workItem from="1574108847889" duration="5171000" />
+      <workItem from="1574114132983" duration="238000" />
+      <workItem from="1574130544832" duration="4032000" />
+      <workItem from="1574169195624" duration="925000" />
+      <workItem from="1574170143338" duration="6438000" />
+      <workItem from="1574200655546" duration="15074000" />
+      <workItem from="1574272177142" duration="2978000" />
+      <workItem from="1574279251038" duration="9000" />
+      <workItem from="1574291605671" duration="6878000" />
+      <workItem from="1574346275434" duration="2348000" />
+      <workItem from="1574348896218" duration="10347000" />
+      <workItem from="1574382878774" duration="4250000" />
+      <workItem from="1574436049268" duration="4195000" />
+      <workItem from="1574442917080" duration="1311000" />
     </task>
     <servers />
   </component>
