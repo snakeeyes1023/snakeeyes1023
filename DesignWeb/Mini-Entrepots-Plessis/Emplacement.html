@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="fr-ca">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta charset="UTF-8">
+
+    <title>Mini-entrepôts plessis</title>
+    <link href="https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Catamaran&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" type="image/png" href="img/icon.png"/>
+    <script src="js/odernav.js" defer></script>
+
+
+</head>
+
+<body>
+<div id="height">
+    <div class="fixed-top shadow-sm">
+        <nav class="navbar navbar-expand-lg navbar-fixed-top navbar-custom ">
+            <div>
+                <a href="index.html">
+                    <img src="img/mini-entrepôt-plessis.png" class="icon d-xs-block"/>
+                </a>
+            </div>
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <!-- The overlay -->
+                <div id="myNav" class="overlay">
+
+                    <!-- Button to close the overlay navigation -->
+                    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+
+                    <!-- Overlay content -->
+                    <div class="overlay-content">
+                        <a href="index.html">Accueil</a>
+                        <a href="tarif.html">Tarifs</a>
+                        <a href="Sécurité.html">Sécurité</a>
+                        <a href="Emplacement.html">Emplacement</a>
+                        <a href="Contact.html">Contact</a>
+                    </div>
+
+                </div>
+
+                <!-- Use any element to open/show the overlay navigation menu -->
+                <span onclick="openNav()"><img id="nav-button" src="img/icons.png" alt="icon"/></span>
+            </button>
+
+            <div class="collapse navbar-collapse d-none d-lg-block ml-auto my-auto" id="navbarNav">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item margedroite button"><a id="blacked" class="nav-link cool-link black text-impact"
+                                                               href="index.html"> Accueil <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item button margedroite"><a id="blacked1"
+                                                               class="nav-link cool-link black text-impact"
+                                                               href="tarif.html">Tarifs</a>
+                    </li>
+                    <li class="nav-item button margedroite"><a id="blacked2"
+                                                               class="nav-link cool-link black text-impact"
+                                                               href="Sécurité.html">Sécurité</a>
+                    </li>
+                    <li class="nav-item button margedroite"><a id="blacked3"
+                                                               class="nav-link cool-link black text-impact"
+                                                               href="Emplacement.html">Emplacement</a>
+                    </li>
+                    <li class="nav-item button margedroite"><a id="blacked4"
+                                                               class="nav-link cool-link black text-impact" href="Contact.html">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+</div>
+<div class="mt-30 bg-light">
+    <h1 class="text-impact text-center mt-5 pt-5">RUE ST-CALIXTE</h1>
+    <iframe class="carte-plein-ecran mt-5"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11040.685964324159!2d-71.76961180275505!3d46.22693426751199!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cb80dc69b4da463%3A0x765fde90496b7476!2s2523%20Rue%20Saint%20Calixte%2C%20Plessisville%2C%20QC%20G6L%201S6!5e0!3m2!1sfr!2sca!4v1576168708755!5m2!1sfr!2sca"
+            frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+    <div class="mt-5">
+        <h1 class="text-impact text-center">AVENUE FORAND</h1>
+
+        <iframe class="carte-plein-ecran mt-5"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11043.827381823858!2d-71.78982700276369!3d46.21131346750426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cb80e7940219fb5%3A0x8071fc6d867bafa0!2s1431%20Avenue%20Forand%2C%20Plessisville%2C%20QC%20G6L%201X5!5e0!3m2!1sfr!2sca!4v1576168986461!5m2!1sfr!2sca"
+                frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+    </div>
+</div>
+
+
+    <script src="js/all.min.js"></script>
+    <script src="js/jquery-3.4.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+</body>
+</html>

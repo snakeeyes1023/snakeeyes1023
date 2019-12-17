@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="fr-ca">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta charset="UTF-8">
+
+    <title>Mini-entrepôts plessis</title>
+    <link href="https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Catamaran&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" type="image/spng" href="img/icon.png"/>
+    <script src="js/odernav.js" defer></script>
+
+
+</head>
+
+<body>
+<div id="height">
+    <div class="fixed-top">
+        <nav class="navbar navbar-expand-lg navbar-fixed-top navbar-custom ">
+            <div>
+                <a href="index.html">
+                    <img src="img/mini-entrepôt-plessis.png" class="icon d-xs-block"/>
+                </a>
+            </div>
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <!-- The overlay -->
+                <div id="myNav" class="overlay">
+
+                    <!-- Button to close the overlay navigation -->
+                    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+
+                    <!-- Overlay content -->
+                    <div class="overlay-content">
+                        <a href="index.html">Accueil</a>
+                        <a href="tarif.html">Tarifs</a>
+                        <a href="Sécurité.html">Sécurité</a>
+                        <a href="Emplacement.html">Emplacement</a>
+                        <a href="Contact.html">Contact</a>
+                    </div>
+
+                </div>
+
+                <!-- Use any element to open/show the overlay navigation menu -->
+                <span onclick="openNav()"><img id="nav-button" src="img/icons.png" alt="icon"/></span>
+            </button>
+
+            <div class="collapse navbar-collapse d-none d-lg-block ml-auto my-auto" id="navbarNav">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item margedroite button"><a id="blacked" class="nav-link cool-link black text-impact"
+                                                               href="index.html"> Accueil <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item button margedroite"><a id="blacked1"
+                                                               class="nav-link cool-link black text-impact"
+                                                               href="tarif.html">Tarifs</a>
+                    </li>
+                    <li class="nav-item button margedroite"><a id="blacked2"
+                                                               class="nav-link cool-link black text-impact"
+                                                               href="Sécurité.html">Sécurité</a>
+                    </li>
+                    <li class="nav-item button margedroite"><a id="blacked3"
+                                                               class="nav-link cool-link black text-impact"
+                                                               href="Emplacement.html">Emplacement</a>
+                    </li>
+                    <li class="nav-item button margedroite"><a id="blacked4"
+                                                               class="nav-link cool-link black text-impact" href="Contact.html">Contact</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+</div>
+<div class="jumbotron jumbotron-fluid mt-30 mb-0">
+    <div class="container align-items-center">
+        <h1 class="display-4">La sécurité</h1>
+        <div class="row lead align-items-center">
+            <div class="col-xl-6 "><p class="police hauteur-jumbo">La sécurité est un aspect important pour tous les
+                propriétaires de maisons, d’entreprises ou
+                d’institutions. Une des façons efficaces d'assurer la protection de votre propriété est d'utiliser une
+                caméra de sécurité. Un système de caméras de surveillance, en plus d'être un élément dissuasif pour les
+                intrus, peut aussi être synchronisé avec un système de contrôle d'accès, ce qui optimise la sécurité de
+                vos
+                lieux.<br>
+                <a target="_blank"
+                   href="https://www.amazon.ca/Wireless-Security-SMONET-Surveillance-Detection/dp/B01EFHZFT4?ref_=fsclp_pl_dp_1"
+                   type="button" class="btn btn-dark police">Notre système de caméra</a>
+            </p>
+            </div>
+            <div class="col-xl-6 align-items-center">
+
+                <img class="image-securiter" src="img/logo_alarme.png"/>
+            </div>
+        </div>
+
+
+    </div>
+</div>
+<div class="row no-gutters py-0">
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+        <ul class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+        </ul>
+
+        <div class="carousel-inner data-pause=false">
+            <div class="carousel-item active">
+                <img class="img-fluid no-gutters hauteur" src="img/securiter-1.jpg" alt="Entrepôt">
+            </div>
+            <div class="carousel-item">
+                <img class="img-fluid no-gutters hauteur" src="img/securiter-2.jpg" alt="déménagement">
+            </div>
+            <div class="carousel-item">
+                <img class="img-fluid no-gutters hauteur" src="img/securiter-3.jpg" alt="content">
+            </div>
+        </div>
+
+        <a class="carousel-control-prev" href="#myCarousel" data-slide="prev">
+            <span class="carousel-control-prev-icon"></span>
+        </a>
+        <a class="carousel-control-next" href="#myCarousel" data-slide="next">
+            <span class="carousel-control-next-icon"></span>
+        </a>
+
+    </div> <!-- Fin du carousel -->
+</div>
+<script src="js/all.min.js"></script>
+<script src="js/jquery-3.4.1.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+</body>
+</html>

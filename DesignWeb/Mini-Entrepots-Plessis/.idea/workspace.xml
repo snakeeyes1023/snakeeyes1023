@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80617753-7d97-4cb3-a2ab-db9c0e22bab1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1U72kyb6ZAhX6OHo6IHfqSgl0y7" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../github/snakeeyes1023/DesignWeb" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb" />
+      <recent name="C:\Users\XPS\Documents\école\Mini-Entrepots-Plessis\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\XPS\Documents\école\Mini-Entrepots-Plessis\img" />
+      <recent name="C:\Users\XPS\Documents\école\Mini-Entrepots-Plessis" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80617753-7d97-4cb3-a2ab-db9c0e22bab1" name="Default Changelist" comment="" />
+      <created>1574693459621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574693459621</updated>
+      <workItem from="1574693460754" duration="3528000" />
+      <workItem from="1574701534257" duration="172000" />
+      <workItem from="1574712261800" duration="22000" />
+      <workItem from="1574879175721" duration="591000" />
+      <workItem from="1574888472178" duration="41000" />
+      <workItem from="1574909009087" duration="5039000" />
+      <workItem from="1574957233702" duration="1999000" />
+      <workItem from="1574960514179" duration="8764000" />
+      <workItem from="1575055308660" duration="2808000" />
+      <workItem from="1575084498437" duration="108000" />
+      <workItem from="1575318622606" duration="128000" />
+      <workItem from="1575318992166" duration="2000" />
+      <workItem from="1575320538121" duration="26000" />
+      <workItem from="1575321706421" duration="785000" />
+      <workItem from="1575490070357" duration="12000" />
+      <workItem from="1575492592155" duration="3970000" />
+      <workItem from="1575589105735" duration="625000" />
+      <workItem from="1575926800492" duration="17011000" />
+      <workItem from="1576167325470" duration="2613000" />
+      <workItem from="1576200925053" duration="846000" />
+      <workItem from="1576516974629" duration="2821000" />
+      <workItem from="1576532564521" duration="9634000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

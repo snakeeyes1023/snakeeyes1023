@@ -1,0 +1,613 @@
+body, html{
+    font-size: 10px;
+    height: 100%;
+    margin:0;
+}
+.text-impact
+{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 2.5rem;
+}
+
+.texte-du-titre{
+    color: white;
+    background-color: #eb8000;
+    margin-right: 30%;
+    margin-left: 30%;
+    font-size: 4rem;
+    font-family: Impact, fantasy;
+    letter-spacing: 2px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.padding{
+    padding-top: 400px;
+    padding-bottom: 400px;
+}
+.position
+{
+    position: center;
+}
+
+.icon
+{
+    width: 200px;
+    height: 50px;
+    margin-right: 100px;
+    margin-left: 20px;
+}
+.bg-parallax {
+    /* L’image du Parallax */
+    background-image: url("../img/bg-temparaire.jpg");
+
+    /* L’hauteur du Parallax */
+    min-height: 700px;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-parallax-1 {
+    /* L’image du Parallax */
+    background-image: url("../img/bg-temparaire.jpg");
+
+    /* L’hauteur du Parallax */
+    min-height: 200px;
+    max-height: 250px;
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+hr{
+    margin-bottom:30px;
+    margin-top:30px;
+    max-width: 50px;
+    border-width: 3px;
+    border-color: black;
+}
+.navicon1
+{
+    color: #403737;
+}
+
+.marge
+{
+    margin-top: 100px;
+}
+.margetext
+{
+    margin-top: 300px;
+}
+.margetop
+{
+    margin-top: 25px;
+}
+.marge-top-bot
+{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.margesection
+{
+    margin-top: 60px;
+}
+
+.margetexte
+{
+    margin-top: 15px;
+}
+.iconpf
+{
+    font-size: 3rem;
+    color: #403737;
+}
+.margebot{
+    margin-bottom: 40px;
+}
+.textetitre{
+    font-family: 'Bebas Neue', cursive;
+    color: #eb8000;
+    font-size: 3rem;
+}
+.textetitremore{
+    font-family: 'Bebas Neue', cursive;
+    color: #eb8000;
+    font-size: 5rem;
+}
+/*.bg{*/
+
+/*}*/
+/* The sticky class is added to the navbar with JS when it reaches its scroll position */
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.blackicon
+{
+    color: #403737;
+    font-size: 50px;
+}
+
+/* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
+
+.margedroite
+{
+    margin-right: 60px;
+}
+
+.img-hauteur
+{
+
+}
+.hauteur
+{
+    max-height: 700px;
+    width: 1920px;
+}
+.police
+{
+    font-size: 1.7rem;
+    letter-spacing: 1px;
+    font-family: 'Catamaran', sans-serif;
+}
+
+
+.mini:hover
+{
+    color: black;
+}
+/* The Overlay (background) */
+.overlay {
+    /* Height & width depends on how you want to reveal the overlay (see JS below) */
+    height: 100%;
+    width: 0;
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    background-color: rgb(0,0,0); /* Black fallback color */
+    background-color: rgba(0,0,0, 0.9); /* Black w/opacity */
+    overflow-x: hidden; /* Disable horizontal scroll */
+    transition: 0.5s; /* 0.5 second transition effect to slide in or slide down the overlay (height or width, depending on reveal) */
+}
+
+/* Position the content inside the overlay */
+.overlay-content {
+    position: relative;
+    top: 25%; /* 25% from the top */
+    width: 100%; /* 100% width */
+    text-align: center; /* Centered text/links */
+    margin-top: 30px; /* 30px top margin to avoid conflict with the close button on smaller screens */
+}
+
+/* The navigation links inside the overlay */
+.overlay a {
+    padding: 8px;
+    text-decoration: none;
+    font-size: 36px;
+    color: #818181;
+    display: block; /* Display block instead of inline */
+    transition: 0.3s; /* Transition effects on hover (color) */
+}
+
+/* When you mouse over the navigation links, change their color */
+.overlay a:hover, .overlay a:focus {
+    color: #f1f1f1;
+}
+
+/* Position the close button (top right corner) */
+.overlay .closebtn {
+    position: absolute;
+    top: 20px;
+    right: 45px;
+    font-size: 60px;
+}
+
+/* When the height of the screen is less than 450 pixels, change the font-size of the links and position the close button again, so they don't overlap */
+@media screen and (max-height: 450px) {
+    .overlay a {font-size: 20px}
+    .overlay .closebtn {
+        font-size: 40px;
+        top: 15px;
+        right: 35px;
+    }
+}
+
+
+
+
+
+.navbar {
+    background-color: transparent;
+    transition: background-color 0.6s linear;
+
+}
+.navbar .navbar-brand {
+    color: white;
+}
+.navbar .navbar-brand:hover,
+.navbar .navbar-brand:focus {
+    color: #ffffff;
+}
+.navbar .navbar-text {
+    color: white;
+}
+.navbar .navbar-text a {
+    color: #ffffff;
+}
+.navbar .navbar-text a:hover,
+.navbar .navbar-text a:focus {
+    color: #ffffff;
+}
+.navbar .navbar-nav .nav-link {
+    color: white;
+    border-radius: .25rem;
+    margin: 0 0.25em;
+}
+.navbar .navbar-nav .nav-link:not(.disabled):hover,
+.navbar .navbar-nav .nav-link:not(.disabled):focus {
+    color: #ffffff;
+}
+.navbar .navbar-nav .nav-item.active .nav-link,
+.navbar .navbar-nav .nav-item.active .nav-link:hover,
+.navbar .navbar-nav .nav-item.active .nav-link:focus,
+.navbar .navbar-nav .nav-item.show .nav-link,
+.navbar .navbar-nav .nav-item.show .nav-link:hover,
+.navbar .navbar-nav .nav-item.show .nav-link:focus {
+    color: #ffffff;
+    background-color: #ffffff;
+}
+.navbar .navbar-toggle {
+    border-color: #ffffff;
+}
+.navbar .navbar-toggle:hover,
+.navbar .navbar-toggle:focus {
+    background-color: #ffffff;
+}
+.navbar .navbar-toggle .navbar-toggler-icon {
+    color: white;
+}
+.navbar .navbar-collapse,
+.navbar .navbar-form {
+    border-color: white;
+}
+.navbar .navbar-link {
+    color: white;
+}
+.navbar .navbar-link:hover {
+    color: #ffffff;
+}
+
+@media (max-width: 575px) {
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: white;
+    }
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #ffffff;
+    }
+    .navbar-expand-sm .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #ffffff;
+        background-color: #ffffff;
+    }
+}
+
+@media (max-width: 767px) {
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: white;
+    }
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #ffffff;
+    }
+    .navbar-expand-md .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #ffffff;
+        background-color: #ffffff;
+    }
+}
+
+@media (max-width: 991px) {
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: white;
+    }
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #ffffff;
+    }
+    .navbar-expand-lg .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #ffffff;
+        background-color: #ffffff;
+    }
+}
+
+@media (max-width: 1199px) {
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item {
+        color: white;
+    }
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+        color: #ffffff;
+    }
+    .navbar-expand-xl .navbar-nav .show .dropdown-menu .dropdown-item.active {
+        color: #ffffff;
+        background-color: #ffffff;
+    }
+}
+
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item {
+    color: white;
+}
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item:hover,
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item:focus {
+    color: #ffffff;
+}
+.navbar-expand .navbar-nav .show .dropdown-menu .dropdown-item.active {
+    color: #ffffff;
+    background-color: #ffffff;
+}
+
+.solid-nav {
+    background-color: rgba(255,255,255,0.8);
+    transition: background-color 0.6s linear;
+    color: black;
+}
+li {
+    margin-bottom: 10px;
+}
+
+.cool-link {
+    display: inline-block;
+    color: #eb8000;
+    text-decoration: none;
+}
+
+.cool-link::after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 2px;
+    background: #eb8000;
+    transition: width .3s;
+}
+
+.cool-link:hover::after {
+    width: 100%;
+//transition: width .3s;
+}
+#nav
+{
+    color: black;
+}
+.bg-parallax-securité {
+    /* L’image du Parallax */
+    background-image: url("../img/securiter.jpg");
+
+    /* L’hauteur du Parallax */
+    min-height: 700px;
+
+    /* Création de l’effet */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.textetitre01
+{
+    color: black;
+    font-size: 4rem;
+    font-family: "Impact",Impact,sans-serif;
+}
+.textetitre02
+{
+    color: white;
+    font-size: 10rem;
+    font-family: "Impact",Impact,sans-serif;
+    letter-spacing: 10px;
+}
+.lineer
+{
+
+    display: inline-block;
+    width: 100%;
+    border: 4px solid #eb8000;
+
+
+}
+.bg-texture
+{
+    background-color: silver;
+}
+.card
+{
+    height: 350px;
+    width: 300px;
+}
+.bg-text {
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
+    color: white;
+    font-weight: bold;
+    border: 4px solid #f1f1f1;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    width: 80%;
+    padding: 20px;
+    text-align: center;
+    font-size: 5rem;
+    font-family: 'Bebas Neue', cursive;
+}
+.zoom:hover {
+    -ms-transform: scale(1.05); /* IE 9 */
+    -webkit-transform: scale(1.05); /* Safari 3-8 */
+    transform: scale(1.05);
+    transition: 1.2s;
+}
+.zoom
+{
+    transition: 1s;
+}
+.text-white
+{
+    color: white;
+}
+.card:hover
+{
+    cursor: pointer;
+}
+.video{
+    width: 100%;
+    height: 100%;
+}
+header {
+    position: relative;
+    background-color: black;
+    height: 100%;
+    min-height: 25rem;
+    width: 100%;
+    overflow: hidden;
+}
+
+header video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: 0;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+}
+
+header .container {
+    position: relative;
+    z-index: 2;
+}
+
+header .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    opacity: 0.5;
+    z-index: 1;
+}
+.bg-light
+{
+    background-color: whitesmoke;
+}
+.hauteur-jumbo
+{
+    height: 250px;
+}
+.mt-30
+{
+    margin-top: 70px;
+}
+.mt-40
+{
+    margin-top: 100px;
+}
+#blacked{color: black;}#blacked1{color: black;}#blacked2{color: black;}#blacked3{color: black;}#blacked4{color: black;}
+.carte-plein-ecran
+{
+    width: 100%;
+    height: 600px;
+}
+.ft
+{
+    font-size: 2.4rem;
+}
+.ftss
+{
+    font-size: 2rem;
+}
+
+.bg-lighting
+{
+    background-image: url("../img/bg-light.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 1000px;
+}
+.fts
+{
+    height: 50px;
+    font-size: 2.2rem;
+}
+.btn-my
+{
+    font-size: 20px;
+}
+.bounce
+{
+    display: block;
+}
+.alertPulse-css {
+    animation: alertPulse 2s ease-out;
+    animation-iteration-count: infinite;
+    opacity: 1;
+    background: #9A2727; /* you need this to specify a color to pulse to */
+}
+.image-securiter
+{
+    /*height="187" width="400"*/
+    height: 187px;
+    width: 400px;
+}
+
+
+/* On screens that are 992px or less, set the background color to blue */
+@media screen and (max-width: 992px) {
+    body {
+
+    }
+}
+
+/* On screens that are 600px or less, set the background color to olive */
+@media screen and (max-width: 320px) {
+    body {
+        font-size: 7px;
+
+    }
+    .icon
+    {
+        width: 100px;
+    }
+    .bg-text
+    {
+        font-size: 30px;
+    }
+    .card
+    {
+        height: 350px;
+        width: 220px;
+    }
+    .police
+    {
+        font-size: 14px;
+    }
+    .textetitre02
+    {
+        font-size: 40px;
+    }
+    .image-securiter
+    {
+        height: 100px;
+        width: 220px;
+    }
+}

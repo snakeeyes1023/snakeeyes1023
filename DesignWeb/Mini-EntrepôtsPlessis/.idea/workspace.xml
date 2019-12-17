@@ -1,7 +1,190 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6970d68f-6741-4f96-9d1e-a40b0c4c6dd1" name="Default Changelist" comment="" />
+    <list default="true" id="6970d68f-6741-4f96-9d1e-a40b0c4c6dd1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/.idea/Photociti.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/Bootstrap/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/Bootstrap/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/Bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/Bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/Bootstrap/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/Bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/Bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/Bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/Bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/Bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/Bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/Bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/Bootstrap/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/Bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/Bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/Bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/Bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/Bootstrap/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/Bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/Bootstrap/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/JS/all.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/JS/imgtext.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/JS/jquery-3.3.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/fontawesome/all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/A/A1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/A/A2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/A/A3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/A/A3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/A/A4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/A/A5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/B/B1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/B/B2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/B/B3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/B/B4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/B/B5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/C/C1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/C/C2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/C/C3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/C/C4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/C/C5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/CS/CS1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/CS/CS2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/CS/CS3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/CS/CS4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/CS/CS5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/D/D1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/D/D2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/D/D3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/D/D4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/D/D5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/E/E1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/E/E2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/E/E3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/E/E4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/E/E5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/F/F1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/F/F2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/F/F3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/F/F4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/F/F5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/G/G1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/G/G2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/G/G3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/G/G4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/G/G5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/H/H1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/H/H2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/H/H3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/H/H4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/H/H5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/I/I1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/I/I2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/I/I3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/I/I4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/I/I5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/J/J1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/J/J2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/J/J3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/J/J4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/J/J5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/K/K1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/K/K2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/K/K3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/K/K4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/K/K5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/L/L1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/L/L2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/L/L3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/L/L4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/L/L5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/M/M1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/M/M2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/M/M3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/M/M4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/M/M5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/N/N1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/N/N2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/N/N3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/N/N4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/N/N5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/O/O1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/O/O2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/O/O3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/O/O4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/O/O5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/P/P1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/P/P2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/P/P3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/P/P4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/P/P5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/Q/Q1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/Q/Q2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/Q/Q3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/Q/Q4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/Q/Q5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/R/R1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/R/R2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/R/R3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/R/R4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/R/R5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/S/S1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/S/S2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/S/S3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/S/S4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/S/S5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/T/T1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/T/T2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/T/T3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/T/T4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/T/T5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/U/U1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/U/U2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/U/U3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/U/U4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/U/U5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/V/V1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/V/V2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/V/V3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/V/V4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/V/V5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/W/W1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/W/W2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/W/W3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/W/W4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/W/W5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/X/X1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/X/X2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/X/X3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/X/X4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/X/X5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/Y/Y1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/Y/Y2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/Y/Y3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/Y/Y4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/Y/Y5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/Z/Z1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/Z/Z2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/Z/Z3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/Z/Z4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/Letters/Z/Z5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/background/blanc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/background/bleu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/background/bleuFonce.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/background/gris.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/background/noir.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/background/rose.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/background/rouge.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/bgsite.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/bgwood.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/img/images.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExamenDesign/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhotoCIti/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PhotoCIti/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PhotoCIti/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../PhotoCIti/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +206,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\XPS\Documents\github\snakeeyes1023\DesignWeb\Mini-EntrepôtsPlessis\.idea" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1RIO3dhEbb1CNeSFZhe3jKlcADh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -85,6 +275,9 @@
       <workItem from="1570549838899" duration="41000" />
       <workItem from="1570660325702" duration="271000" />
       <workItem from="1574109568473" duration="7000" />
+      <workItem from="1574693235801" duration="223000" />
+      <workItem from="1574693474107" duration="10000" />
+      <workItem from="1574693506912" duration="1678000" />
     </task>
     <servers />
   </component>
