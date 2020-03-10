@@ -1,0 +1,9 @@
+C:\Users\XPS\source\repos\jeudevie\jeu\bin\Debug\jeu.exe.config
+C:\Users\XPS\source\repos\jeudevie\jeu\bin\Debug\jeu.exe
+C:\Users\XPS\source\repos\jeudevie\jeu\bin\Debug\jeu.pdb
+C:\Users\XPS\source\repos\jeudevie\jeu\bin\Debug\jeudevie.dll
+C:\Users\XPS\source\repos\jeudevie\jeu\bin\Debug\jeudevie.pdb
+C:\Users\XPS\source\repos\jeudevie\jeu\obj\Debug\jeu.csprojAssemblyReference.cache
+C:\Users\XPS\source\repos\jeudevie\jeu\obj\Debug\jeu.csproj.CopyComplete
+C:\Users\XPS\source\repos\jeudevie\jeu\obj\Debug\jeu.exe
+C:\Users\XPS\source\repos\jeudevie\jeu\obj\Debug\jeu.pdb

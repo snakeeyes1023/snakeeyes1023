@@ -1,0 +1,8 @@
+C:\Users\XPS\source\repos\jeudevie\jeudevie\bin\Debug\netstandard2.0\jeudevie.deps.json
+C:\Users\XPS\source\repos\jeudevie\jeudevie\bin\Debug\netstandard2.0\jeudevie.dll
+C:\Users\XPS\source\repos\jeudevie\jeudevie\bin\Debug\netstandard2.0\jeudevie.pdb
+C:\Users\XPS\source\repos\jeudevie\jeudevie\obj\Debug\netstandard2.0\jeudevie.csprojAssemblyReference.cache
+C:\Users\XPS\source\repos\jeudevie\jeudevie\obj\Debug\netstandard2.0\jeudevie.AssemblyInfoInputs.cache
+C:\Users\XPS\source\repos\jeudevie\jeudevie\obj\Debug\netstandard2.0\jeudevie.AssemblyInfo.cs
+C:\Users\XPS\source\repos\jeudevie\jeudevie\obj\Debug\netstandard2.0\jeudevie.dll
+C:\Users\XPS\source\repos\jeudevie\jeudevie\obj\Debug\netstandard2.0\jeudevie.pdb

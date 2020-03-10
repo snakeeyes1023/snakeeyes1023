@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6970d68f-6741-4f96-9d1e-a40b0c4c6dd1" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VéloDeMontagne/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ExamenDesign/.idea/.name" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ExamenDesign/.idea/Photociti.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ExamenDesign/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
@@ -278,6 +279,7 @@
       <workItem from="1574693235801" duration="223000" />
       <workItem from="1574693474107" duration="10000" />
       <workItem from="1574693506912" duration="1678000" />
+      <workItem from="1581441660586" duration="173000" />
     </task>
     <servers />
   </component>
